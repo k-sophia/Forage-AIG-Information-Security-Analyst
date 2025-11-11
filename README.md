@@ -5,6 +5,17 @@ As an Information Security Analyst, analyze security alerts and respond to a ran
 
 ## Task 1 - Responding to a zero-day vulnerability
 
+### Scenario
+
+Review publications from the Cybersecurity & Infrastructure Security Agency (CISA) to draft an email to inform the relevant infrastructure teams at AIG of the seriousness of the vulnerability (Log4j) that has been reported. 
+
+Analyze the “Infrastructure List” to determine which systems may be affected and which teams own them. Draft a concise advisory email to alert the owners and recommend appropriate mitigation steps.
+
+### Provided Resources
+The CISA has published the following two advisories:
+1. [Mitigating Log4Shell and Other Log4j-Related Vulnerabilities](https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-356a) - outlines a serious vulnerability in one of the world’s most popular logging software.
+2. [CISA, FBI, NSA and International Partners Issue Advisory on Ransomware Trends from 2021](https://www.cisa.gov/news-events/news/cisa-fbi-nsa-and-international-partners-issue-advisory-ransomware-trends-2021) - explores how ransomware has been increasing and is becoming professionalized - a concern for a large company like AIG.
+
 ## Task 2 - Bypassing ransomware
 
 ### Scenario
