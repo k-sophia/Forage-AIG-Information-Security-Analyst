@@ -3,6 +3,16 @@ AIG virtual experience program on Forage.
 
 As an Information Security Analyst, analyze security alerts and respond to a ransomware attack using Python and stakeholder management skills.
 
+## Files in this repository
+**From Task 1:**
+- **advisory_email.md** – Advisory email for the Log4j vulnerability.
+
+**From Task 2:**
+- **bruteforce.py** – Python script to recover the password for `enc.zip`.
+- **enc.zip** – Encrypted file representing the ransomware-affected document.
+- **ImportantFile.docx** – Recovered file retreived after successful bruteforce.
+- **rockyou.txt** – Small sublist of common/weak passwords.
+
 ## Task 1 - Responding to a zero-day vulnerability
 
 ### Scenario
