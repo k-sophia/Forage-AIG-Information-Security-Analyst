@@ -3,7 +3,7 @@ AIG virtual experience program on Forage.
 
 As an Information Security Analyst, analyze security alerts and respond to a ransomware attack using Python and stakeholder management skills.
 
-## Files in this repository
+## Files Overview
 **From Task 1:**
 - **advisory_email.md** – Advisory email for the Log4j vulnerability.
 
